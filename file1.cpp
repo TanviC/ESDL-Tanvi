@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-cout<<"Welcome";
 cout<<"hello!! Wie heisst du?"
+cout<<"Wo wohnst du?? wie geht es dir??"
 return 0;
 }
